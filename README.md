@@ -17,4 +17,6 @@ Design a nodejs server or any other server technology your are comfortable with 
 * API's between Node/other server and YouTube data API can use REST. 
  
 ### Useful Link: 
-https://developers.google.com/youtube/v3/quickstart/nodejs
+* https://developers.google.com/youtube/v3/quickstart/nodejs
+* https://www.howtographql.com/
+* https://graphql.org/learn/
