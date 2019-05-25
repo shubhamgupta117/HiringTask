@@ -13,8 +13,8 @@ Design a nodejs server or any other server technology your are comfortable with 
 * Any user of the system should ideally be able to change the credentials of the YouTube API by using a config file. 
 
 ### API Spec: 
-* API's between React Client and Node server must use GraphQL. 
-* API's between Node server and YouTube data API can use REST. 
+* API's between React/other framework Client and Node/other server is appericiated to be GraphQL. Rest will also do. 
+* API's between Node/other server and YouTube data API can use REST. 
  
 ### Useful Link: 
 https://developers.google.com/youtube/v3/quickstart/nodejs
