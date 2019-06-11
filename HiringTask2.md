@@ -18,7 +18,7 @@ Your task is to create a react/other framework application with decent UI, you a
 
 Create a node/other server technology in order to provide data to above react/other framework application. To store data use any relational/non-relational database according to your best judgement. Create two collections/table user and threads, which will be used to store the user information and threads created by users.
 
-1. Create API'S to fetch thread data, create a new thread and  register/login a user.
+1. Create API'S to fetch thread data, create a new thread and  register/login a user. Follow the REST architecture strictly, i.e use correct HTTP methods corresponding to the API.
 
 2. Store hashed password in database and the candidate can use JWT(Json web token) to handle sessions.the candidate is free to choose any other authentication methods too. 
 
