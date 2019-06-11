@@ -7,6 +7,7 @@ Design a nodejs server or any other server technology your are comfortable with 
 1. It should allow updating/modifying an existing video on youtube channel. Fields such as title, description and video privacy settings can be updated. Video to update should be identified using youtube video unique id. (https://developers.google.com/youtube/v3/docs/videos#properties)
 
 (optional but would earn you extra points)
+
 2. It should allow uploading a video to youtube channel (https://developers.google.com/youtube/v3/docs/videos/insert). Please keep fields such as title, description, video privacy settings(private, public, unlisted - https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) & video 
 
 
