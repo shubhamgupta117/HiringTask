@@ -24,7 +24,7 @@ Design a nodejs server or any other server technology your are comfortable with 
 * https://graphql.org/learn/
 
 ### Assessment criteria:
-* Clean and organized code. i.e make seperate module for oauth, video upload and edit(if attempting), keep server and client module seperate.
-* after done with the project , make a private git repo with a proper readme and a video demo of the working project and send access to this account. video on drive with shared link would do.
+* For code: our primary focus will be code readability and architecture, the code should be clean and organized. i.e make seperate module for oauth, video upload and edit(if attempting), keep server and client module seperate.
+* once done with the project , make a private git repo with a proper readme and a video demo of the working project and send access to this account. video on drive with shared link would do.
 * we hihgly encourage writing test cases, though aren't mandatory for this hiring task but would definitely earn the candidate extra points.
 
