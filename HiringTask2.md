@@ -28,5 +28,5 @@ It would be considered as a plus point if the candidate could host this app live
 ### Judging criterion:
 * UI must be decent, we understand that you are not a designer but still your taste of colors, fonts, alignments  and icons should be decent enough to create an appealing interface.The candidate can use any third party UI module such as google material design ,etc.
 * For code: our primary focus will be code readability and architecture,the code should be clean and organized, i.e keep different module for diffrent functionality.
-* we hihgly encourage writing test cases, though aren't mandatory for this hiring task but would definitely earn the candidate extra points.
+* we highly encourage writing test cases, though aren't mandatory for this hiring task but would definitely earn the candidate extra points.
 
