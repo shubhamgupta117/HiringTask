@@ -26,5 +26,5 @@ Design a nodejs server or any other server technology your are comfortable with 
 ### Assessment criteria:
 * Clean and organized code. i.e make seperate module for oauth, video upload and edit(if attempting), keep server and client module seperate.
 * after done with the project , make a private git repo with a proper readme and a video demo of the working project and send access to this account. video on drive with shared link would do.
-* we hihgly encourage you writing test cases, though aren't mandatory for this hiring task.
+* we hihgly encourage writing test cases, though aren't mandatory for this hiring task but would definitely earn the candidate extra points.
 
